@@ -1,0 +1,7 @@
+.idea/
+target/
+run/
+Client/target/
+Client/out
+out/
+Client/.idea

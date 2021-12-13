@@ -1,0 +1,4 @@
+Agent-Class: me.fan87.appleclient.AgentMain
+Premain-Class: me.fan87.appleclient.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
